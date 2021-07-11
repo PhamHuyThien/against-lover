@@ -1,0 +1,20 @@
+{
+    "cookie": "",
+    "fb_dtsg": "",
+    "uid": "100040537671550",
+    "name": "Thiên Đẹp Trai",
+    "text_reply": "Vừa thấy [_name] gỡ tin nhắn nhá 😉!\nMình đọc được rồi có phải nội dung là \"[_text]\" đúng không 🤣",
+    "size_get_message": 300,
+    "size_message_between": 20,
+    "time_refresh": 3000,
+    "time_step": 500,
+    "time_sleep": 60000,
+    "count_sleep": 100,
+    "uid_follow": [{
+        "uid": "100044754098253",
+        "name": "Tester"
+    }, {
+        "uid": "100018943605117",
+        "name": "NgIu"
+    }]
+}
